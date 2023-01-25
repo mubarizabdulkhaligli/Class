@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{1CC4E20E-DAA6-48F1-A7B5-F2A24C2674D6}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="classwork/Program.cs">
+    <Files>
+      <File FileName="classwork/Program.cs" Line="64" Column="23" />
+      <File FileName="classwork/Human.cs" />
+      <File FileName="classwork/Student.cs" />
+      <File FileName="classwork/Product.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="classwork" expanded="True">
+            <Node name="classwork" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="classwork" expanded="True">
+            <Node name="classwork" expanded="True">
+              <Node name="classwork" expanded="True">
+                <Node name="classwork.Program" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.classwork PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
